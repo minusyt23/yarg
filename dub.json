@@ -1,0 +1,11 @@
+{
+	"authors": [
+		"minus"
+	],
+	"dependencies": {
+		"glfw-d": "~>1.1.0"
+	},
+	"description": "Yet Another Rhythm Game...?",
+	"license": "proprietary",
+	"name": "yarg"
+}

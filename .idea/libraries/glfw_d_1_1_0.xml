@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="glfw-d-1.1.0" type="DLangLib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.dub/packages/glfw-d-1.1.0/glfw-d/source" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,18 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/yarg
+yarg.so
+yarg.dylib
+yarg.dll
+yarg.a
+yarg.lib
+yarg-test-*
+*.exe
+*.o
+*.obj
+*.lst
+
+# Project exclude paths
+/out/
